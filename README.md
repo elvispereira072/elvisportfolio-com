@@ -10,14 +10,13 @@ Este é o portfólio de Elvis Pereira, um Desenvolvedor Front-End especializado 
 - JavaScript
 
 ## Funcionalidades
-- Design responsivo
-- Menu de navegação adaptável
-- Vídeo de fundo
-- Ícone flutuante do WhatsApp
+- Design Responsivo
+- Menu de Navegação Adaptável
+- Vídeo de Fundo
+- Ícone Flutuante do WhatsApp
 
 ## Serviços Oferecidos
-- Desenvolvimento web
-- Formatação de computadores
-- Segurança de conta Gmail
-- Documentos em PDF
-- Criação de arquivos APK de serviços
+- Desenvolvimento Web
+- Formatação
+- Documentos Profissionais no Word
+- Criação de Arquivos APK Android

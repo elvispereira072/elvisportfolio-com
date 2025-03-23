@@ -1,22 +1,29 @@
-# elvisportfolio-com
-# Portfólio de Elvis Pereira
+Elvis Pereira Portfolio
+This is the portfolio of Elvis Pereira, a Front-End Developer specialized in creating dynamic and responsive web experiences. This project showcases a collection of works and services offered, using modern technologies such as Tailwind CSS and FontAwesome, and includes special effects like a background video and floating icons.
 
-Este é o portfólio de Elvis Pereira, um Desenvolvedor Front-End especializado em criar experiências web dinâmicas e responsivas. Este projeto apresenta uma coleção de trabalhos e serviços oferecidos, utilizando tecnologias modernas como Tailwind CSS e FontAwesome, além de incluir efeitos especiais como um vídeo de fundo e ícones flutuantes.
+Technologies Used
+HTML5
 
-## Tecnologias Utilizadas
-- HTML5
-- Tailwind CSS
-- FontAwesome
-- JavaScript
+Tailwind CSS
 
-## Funcionalidades
-- Design Responsivo
-- Menu de Navegação Adaptável
-- Vídeo de Fundo
-- Ícone Flutuante do WhatsApp
+FontAwesome
 
-## Serviços Oferecidos
-- Desenvolvimento Web
-- Formatação
-- Documentos Profissionais no Word
-- Criação de Arquivos APK Android
+JavaScript
+
+Features
+Responsive Design
+
+Adaptive Navigation Menu
+
+Background Video
+
+Floating WhatsApp Icon
+
+Services Offered
+Web Development
+
+Computer Formatting
+
+Professional Documents in Word
+
+Android APK File Creation
